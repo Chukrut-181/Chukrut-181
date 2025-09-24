@@ -26,6 +26,8 @@ Currently pursuing my education at **42 Academy**, where I'm learning not just t
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-3776AB?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-FF6B6B?style=for-the-badge&logo=gnu&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 

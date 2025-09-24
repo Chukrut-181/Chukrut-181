@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer currently study
 
 Since childhood, I've always wanted to be an **inventor**. Today, I've found my calling in software development where I can 'invent' digital solutions that solve real-world problems. This discovery has transformed from curiosity into genuine passion.
 
-After diverse professional experiences I've found my true vocation in programming. My varied background gives me a unique perspective and strong problem-solving skills that I bring to software development.
+After diverse professional experiences as a library owner, tire mechanic, administrative worker at Iveco Trucks, and stock trader, I've found my true vocation in programming. This varied background gives me a unique perspective and strong problem-solving skills that I bring to software development.
 
 Currently pursuing my education at **42 Academy**, where I'm learning not just to code, but to think like a developer through peer-to-peer collaboration and project-based learning.
 
@@ -18,10 +18,25 @@ Currently pursuing my education at **42 Academy**, where I'm learning not just t
 
 ## 🛠️ Technical Foundation
 
-### Core Competency
-- **C Programming**: Solid foundation with deep understanding of memory management, pointers, and system-level programming
+### Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Expanding Knowledge
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Development Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Core Competencies
+- **C Programming**: Solid foundation with deep understanding of memory management, pointers, and system-level programming
 - **C++**: Building upon my C knowledge with object-oriented concepts
 - **Python**: Exploring high-level programming and versatile applications
 
@@ -109,7 +124,7 @@ I'm always excited to discuss software development opportunities and connect wit
 
 ---
 
-## 🎯 "From dreaming to crafting - the journey continues."
+## 🎯 "From dreaming of being an inventor to crafting software solutions - the journey continues with every line of code."
 
 ---
 

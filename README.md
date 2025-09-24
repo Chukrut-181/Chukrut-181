@@ -55,7 +55,8 @@ Currently pursuing my education at **42 Academy**, where I'm learning not just t
 - **MiniRT**: Ray tracing engine for 3D graphics rendering
 
 ### Personal Development:
-- **Advanced Ray Tracer**: Currently developing a more sophisticated ray tracing engine, building upon MiniRT with enhanced features and optimizations
+- **Advanced Ray Tracer**: Currently developing a more sophisticated ray tracing engine with enhanced features and optimizations
+- **Enigma M3 Encrypting Machine**: Recreation of the historical WWII encryption device, implementing rotor mechanics, plugboard configurations, and authentic encryption algorithms in C
 
 ### Next Learning Goals:
 - Deepening C++ object-oriented programming
@@ -124,7 +125,7 @@ I'm always excited to discuss software development opportunities and connect wit
 
 ---
 
-## 🎯 "From dreaming of being an inventor to crafting software solutions - the journey continues with every line of code."
+## 🎯 "From dreaming to crafting  - the journey continues."
 
 ---
 

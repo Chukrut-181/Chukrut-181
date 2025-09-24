@@ -109,7 +109,7 @@ I'm always excited to discuss software development opportunities and connect wit
 
 ---
 
-## 🎯 "From dreaming of being an inventor to crafting software solutions - the journey continues with every line of code."
+## 🎯 "From dreaming to crafting - the journey continues."
 
 ---
 

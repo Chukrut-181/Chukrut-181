@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm an aspiring software developer currently study
 
 ## 🚀 About Me - The Journey
 
-Since childhood, I've always wanted to be an **inventor**. Today, I've found my calling in software development where I can 'invent' digital solutions that solve real-world problems. This discovery has transformed from curiosity into genuine passion.
+Since childhood I've to be an **inventor**. Today, I've found my calling in software development where I can 'invent' digital solutions that solve real-world problems. This discovery has transformed from curiosity into genuine passion.
 
-After diverse professional experiences as a library owner, tire mechanic, administrative worker at Iveco Trucks, and stock trader, I've found my true vocation in programming. This varied background gives me a unique perspective and strong problem-solving skills that I bring to software development.
+After diverse professional experiences, I've found my true vocation in programming. My varied background gives me a unique perspective and strong problem-solving skills that I bring to software development.
 
 Currently pursuing my education at **42 Academy**, where I'm learning not just to code, but to think like a developer through peer-to-peer collaboration and project-based learning.
 

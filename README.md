@@ -8,11 +8,9 @@ Welcome to my GitHub profile! I'm an aspiring software developer currently study
 
 ## 🚀 About Me - The Journey
 
-Since childhood I've to be an **inventor**. Today, I've found my calling in software development where I can 'invent' digital solutions that solve real-world problems. This discovery has transformed from curiosity into genuine passion.
+Since childhood I wanted to be an inventor. Today, I've found my true vocation in software development where I can 'invent' digital solutions that solve real-world problems. My varied background gives me a unique perspective and strong problem-solving skills.
 
-After diverse professional experiences, I've found my true vocation in programming. My varied background gives me a unique perspective and strong problem-solving skills that I bring to software development.
-
-Currently pursuing my education at **42 Academy**, where I'm learning not just to code, but to think like a developer through peer-to-peer collaboration and project-based learning.
+Currently pursuing my education at **42 Academy**, where I'm learning not just to code but to think like a developer through peer-to-peer collaboration and project-based learning.
 
 ---
 
@@ -59,8 +57,8 @@ Currently pursuing my education at **42 Academy**, where I'm learning not just t
 - **MiniRT**: Ray tracing engine for 3D graphics rendering
 
 ### Personal Development:
-- **Advanced Ray Tracer**: Currently developing a more sophisticated ray tracing engine with enhanced features and optimizations
-- **Enigma M3 Encrypting Machine**: Recreation of the historical WWII encryption device, implementing rotor mechanics, plugboard configurations, and authentic encryption algorithms in C
+- **Advanced Ray Tracer**: Currently developing a more sophisticated ray tracing engine with enhanced features
+- **Enigma M3 Encrypting Machine**: Recreation of the historical WWII encryption device
 
 ### Next Learning Goals:
 - Deepening C++ object-oriented programming
@@ -85,14 +83,12 @@ Currently pursuing my education at **42 Academy**, where I'm learning not just t
 
 ## 🏫 42 Academy Experience
 
-42's innovative peer-to-peer learning model has taught me more than just programming:
+42's peer-to-peer learning model has prepared me for the collaborative and dynamic nature of professional software development environments.
 
 - **Collaborative Problem-Solving**: Working with peers to tackle complex challenges
 - **Code Review Culture**: Giving and receiving constructive feedback
 - **Project Management**: Managing timelines and deliverables independently
 - **Adaptability**: Learning new concepts and technologies quickly and efficiently
-
-This unique educational approach has prepared me for the collaborative and dynamic nature of professional software development environments.
 
 ---
 

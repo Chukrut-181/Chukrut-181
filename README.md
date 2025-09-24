@@ -1,6 +1,6 @@
 # Hi there, I'm Ignacio Churruca 👋
 
-## 💻 Aspiring Software Developer | 42 Academy Student | Passionate Problem Solver
+## 💻 Software Developer | 42 Academy Student
 
 Welcome to my GitHub profile! I'm an aspiring software developer currently studying at 42 Academy, where I'm building a solid foundation in programming while discovering my passion for creating innovative software solutions.
 

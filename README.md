@@ -2,15 +2,13 @@
 
 ## 💻 Software Developer | 42 Academy Student
 
-Welcome to my GitHub profile! I'm an aspiring software developer currently studying at 42 Academy, where I'm building a solid foundation in programming while discovering my passion for creating innovative software solutions.
+Welcome to my GitHub profile! I'm an aspiring software developer currently studying at 42 Academy, where I'm building a solid foundation in programming.
 
 ---
 
 ## 🚀 About Me - The Journey
 
 Since childhood I wanted to be an inventor. Today, I've found my true vocation in software development where I can 'invent' digital solutions that solve real-world problems. My varied background gives me a unique perspective and strong problem-solving skills.
-
-Currently pursuing my education at **42 Academy**, where I'm learning not just to code but to think like a developer through peer-to-peer collaboration and project-based learning.
 
 ---
 
@@ -133,4 +131,4 @@ I'm always excited to discuss software development opportunities and connect wit
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to discuss opportunities or collaboration.*
+*Thanks for visiting my profile! Explore my repos and don't hesitate to reach out if you'd like to discuss collaboration.*

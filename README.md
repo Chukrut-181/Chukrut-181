@@ -53,10 +53,20 @@ Since childhood I wanted to be an inventor. Today, I've found my true vocation i
 
 ## 🎯 Current Learning Path
 
-### Key 42 Academy Projects Completed:
-- **Libft**: Custom C library implementation (expanded with additional functions)
-- **Minishell**: Unix shell recreation with advanced features
-- **MiniRT**: Ray tracing engine for 3D graphics rendering
+### 42 Academy Projects Completed:
+- **Libft**:  Custom C library implementation (expanded with additional functions)
+- **ft_printf**:  Recreation of the standard printf function, handling variable arguments.
+- **get_next_line**:  Utility function for reading content line-by-line from a file descriptor.
+- **born2beroot**:  VM setup and hardening (Debian), demonstrating system administration skills.
+- **push_swap**:  Algorithm to sort data across two stacks using a minimal number of instructions.
+- **pipex**:  	A simple shell pipeline clone for inter-process communication.
+- **fdf**:  3D wireframe modeling and projection from map data.
+- **Minishell**:  Unix shell recreation with advanced features
+- **philosophers**:  The Dining Philosophers problem using concurrent programming with threads and mutexes.
+- **netpractice**:  Practical exercise mastering network addressing and subnetting.
+- **MiniRT**:  Ray tracing engine for 3D graphics rendering
+- **C++ modules 0 to 4**: Core OOP concepts: classes, memory allocation, interfaces, inheritance, and polymorphism.
+- **webserv**: A non-blocking HTTP/1.1 Web Server from scratch in C++, handling multiple sockets, request parsing, and CGI execution.
 
 ### Personal Development:
 - **Advanced Ray Tracer**: Currently developing a more sophisticated ray tracing engine with enhanced features
@@ -65,7 +75,7 @@ Since childhood I wanted to be an inventor. Today, I've found my true vocation i
 ### Next Learning Goals:
 - Deepening C++ object-oriented programming
 - Expanding Python capabilities for diverse applications
-- Exploring modern development frameworks and tools
+- Modern Tooling: Exploring contemporary development frameworks and tools.
 
 ---
 

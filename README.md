@@ -1,14 +1,6 @@
 # Hi there, I'm Ignacio Churruca 👋
 
-## 💻 Software Developer | 42 Academy Student
-
-Welcome to my GitHub profile! I'm an aspiring software developer currently studying at 42 Academy, where I'm building a solid foundation in programming.
-
----
-
-## 🚀 About Me - The Journey
-
-Since childhood I wanted to be an inventor. Today, I've found my true vocation in software development where I can 'invent' digital solutions that solve real-world problems. My varied background gives me a unique perspective and strong problem-solving skills.
+Welcome to my GitHub profile! I'm an aspiring software developer currently studying at 42 Academy.
 
 ---
 
@@ -39,18 +31,6 @@ Since childhood I wanted to be an inventor. Today, I've found my true vocation i
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Core Competencies
-- **C Programming**: Solid foundation with deep understanding of memory management, pointers, and system-level programming
-- **C++**: Building upon my C knowledge with object-oriented concepts
-- **Python**: Exploring high-level programming and versatile applications
-
-### 42 Academy Methodology
-- **Self-Learning Mastery**: Proven ability to learn complex concepts independently
-- **Peer Collaboration**: Experience working in team environments and code reviews
-- **Project-Based Development**: Hands-on experience building complete applications from scratch
-
----
-
 ## 🎯 Current Learning Path
 
 ### 42 Academy Projects Completed:
@@ -79,46 +59,6 @@ Since childhood I wanted to be an inventor. Today, I've found my true vocation i
 
 ---
 
-## ⭐ What Sets Me Apart
-
-🎓 **42 Academy Education**: Rigorous, peer-to-peer learning environment that mirrors professional development teams
-
-🌍 **Bilingual Advantage**: Native Spanish speaker with proficient English - ready for international collaboration
-
-🔄 **Career Transition Strength**: Diverse professional background brings fresh perspective and strong work ethic
-
-🚀 **Passion-Driven**: Genuine enthusiasm for software development discovered through hands-on experience
-
-📈 **Self-Learning Excellence**: Proven track record of mastering complex technical concepts independently
-
----
-
-## 🏫 42 Academy Experience
-
-42's peer-to-peer learning model has prepared me for the collaborative and dynamic nature of professional software development environments.
-
-- **Collaborative Problem-Solving**: Working with peers to tackle complex challenges
-- **Code Review Culture**: Giving and receiving constructive feedback
-- **Project Management**: Managing timelines and deliverables independently
-- **Adaptability**: Learning new concepts and technologies quickly and efficiently
-
----
-
-## 💼 Ready for Professional Growth
-
-I'm actively seeking my first professional opportunity in software development where I can:
-
-- **Contribute Fresh Perspective**: Bring enthusiasm and innovative thinking to development teams
-- **Continue Learning**: Grow alongside experienced developers while contributing meaningful work
-- **Apply 42 Methodology**: Utilize collaborative problem-solving and self-directed learning skills
-- **Deliver Quality Code**: Apply my strong foundation in C and expanding knowledge in multiple languages
-
-**Location**: Biscay, Spain  
-**Availability**: Open to starting immediately while completing my 42 Academy formation  
-**Commitment**: Dedicated to continuous learning and professional growth in software development
-
----
-
 ## 📊 GitHub Stats
 
 ![Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chukrut-181&show_icons=true&theme=dark&count_private=true)
@@ -129,15 +69,11 @@ I'm actively seeking my first professional opportunity in software development w
 
 ## 📫 Let's Connect
 
-I'm always excited to discuss software development opportunities and connect with fellow developers!
+I'm always open to discuss software development opportunities!
 
 📧 **Email**: ichurrucafdt@gmail.com  
 💼 **LinkedIn**: [Ignacio Churruca](https://www.linkedin.com/in/ignacio-churruca)  
 📍 **Location**: Biscay, Spain
-
----
-
-## 🎯 "From dreaming to crafting  - the journey continues."
 
 ---
 

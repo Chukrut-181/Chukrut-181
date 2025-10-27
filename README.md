@@ -46,6 +46,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer currently study
 - **netpractice**:  Practical exercise mastering network addressing and subnetting.
 - **MiniRT**:  Ray tracing engine for 3D graphics rendering
 - **C++ modules 0 to 4**: Core OOP concepts: classes, memory allocation, interfaces, inheritance, and polymorphism.
+- **C++ modulea 5 to 9**: Advanced C++ features: exceptions, complex data structures, templates, smart pointers, containers.
 - **webserv**: A non-blocking HTTP/1.1 Web Server from scratch in C++, handling multiple sockets, request parsing, and CGI execution.
 
 ### Personal Development:
